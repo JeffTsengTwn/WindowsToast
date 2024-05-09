@@ -1,5 +1,5 @@
 # WindowsToast
-A simple sample to show toast in Windows.
+A simple sample to show toast on Windows.
 ## Dependency 
 ```bash
 pip install pypiwin32                     
